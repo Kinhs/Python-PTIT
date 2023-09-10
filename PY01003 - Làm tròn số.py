@@ -12,3 +12,4 @@ for i in range(n):
             res[j+1] = '0'
             j -= 1
         print("".join(res))
+        
